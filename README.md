@@ -1,2 +1,1 @@
-# AutomationSelenium
-"updated readme" 
+# AutomationSelenium 
